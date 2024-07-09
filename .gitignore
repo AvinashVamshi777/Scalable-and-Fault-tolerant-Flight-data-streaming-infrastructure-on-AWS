@@ -1,0 +1,12 @@
+.venv
+.venv/*
+libs
+config/env.json
+config/kafka.json
+config/aws.json
+*.pyc
+vendor/
+target/
+vendor.zip
+package.zip
+docs/world.png:Zone.Identifier
